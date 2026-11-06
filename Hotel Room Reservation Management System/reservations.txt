@@ -1,0 +1,8 @@
+001|10-001|Maria Santos|101|Standard|2500.0|2026-10-27|2|Checked In|Fatty|0.0
+002|10-002|Juan Dela Cruz|202|Deluxe|5800.0|2026-10-28|3|Cancelled|Fatty|0.0
+003|10-003|Ana Reyes|102|Standard|2500.0|2026-10-27|1|Checked Out|Fatty|0.0
+004|10-004|Carlo Mendoza|301|Suite|8200.0|2026-10-30|5|Checked Out|Fatty|0.0
+006|10-006|Mark Villanueva|201|Deluxe|5800.0|2026-11-01|1|Reserved|Fatty|0.0
+007|10-007|Grace Bautista|302|Suite|8200.0|2026-10-30|2|Reserved|Fatty|0.0
+008|10-009|Ryan Ragos|203|Deluxe|5800.0|2026-10-28|3|Checked In|Fatty|0.0
+009|10-001|Maria Santos|501|Suite|8200.0|2026-10-28|1|Reserved|Minda|0.0

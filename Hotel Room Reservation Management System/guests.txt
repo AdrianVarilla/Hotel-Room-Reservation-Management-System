@@ -1,0 +1,10 @@
+10-001|Maria Santos|Purok 3, Brgy. Apokon, Tagum City|09171234501|maria.santos@gmail.com
+10-002|Juan Dela Cruz|12 Rizal St., Brgy. Poblacion, Tagum City|09181234502|juan.delacruz@gmail.com
+10-003|Ana Reyes|Block 5 Lot 12, Brgy. Magugpo, Tagum City|09191234503|ana.reyes@gmail.com
+10-004|Carlo Mendoza|45 Mabini St., Brgy. Visayan Village, Tagum City|09201234504|
+10-005|Liza Fernandez|Purok 7, Brgy. Mankilam, Tagum City|09211234505|liza.f@gmail.com
+10-006|Mark Villanueva|88 Quezon Ave., Davao City|09221234506|mark.v@gmail.com
+10-007|Grace Bautista|Brgy. San Miguel, Panabo City|09231234507|
+10-008|Ben Ashley Macapinlac|123 Sabang Avenue, Baliwag City|09174734823|
+10-009|Ryan Ragos|Sabang Baliwag Bulacan|09382938464|
+10-010|Vincent|Baliwag|09183746657|

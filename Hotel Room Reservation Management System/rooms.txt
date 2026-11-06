@@ -1,0 +1,16 @@
+101|Standard|1|Booked|2500.0
+102|Standard|1|Available|2500.0
+103|Standard|1|Available|2500.0
+104|Standard|1|Available|2500.0
+105|Standard|1|Available|2500.0
+201|Deluxe|2|Booked|5800.0
+202|Deluxe|2|Available|5800.0
+203|Deluxe|2|Booked|5800.0
+204|Deluxe|2|Available|5800.0
+205|Deluxe|2|Available|5800.0
+301|Suite|3|Available|8200.0
+302|Suite|3|Booked|8200.0
+303|Suite|3|Available|8200.0
+304|Suite|3|Available|8200.0
+305|Suite|3|Available|8200.0
+501|Suite|5|Booked|8200.0

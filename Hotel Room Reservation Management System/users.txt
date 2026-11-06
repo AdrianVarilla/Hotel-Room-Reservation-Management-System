@@ -1,0 +1,6 @@
+DEFAULT,staff123,Staff,false
+Minda,minda123,Admin,false
+admin,admin123,Admin,false
+DEFAULT_ADMIN,admin123,Admin,false
+Fatty,staff123,Staff,false
+staff,staff123,Staff,true
