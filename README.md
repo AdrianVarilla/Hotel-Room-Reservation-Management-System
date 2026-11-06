@@ -59,17 +59,8 @@ git clone https://github.com/yourusername/Vacanza.git
 
 ---
 
-## Documentation
-
-For the full user manual and system documentation, please refer to the link below:
-
-## View Full User Manual
-
-*(Add your user manual link here)*
-
----
 
 ## Developers
-- *(Add developer name)*
-- *(Add developer name)*
-- *(Add developer name)*
+- *(Varilla, Adrian S.)*
+- *(Macapinlac, Ben Ashley C.)*
+- *(Dela Torre, John Erick DG.)*
